@@ -1,0 +1,5 @@
+{
+  "name": "Mwalimu AI",
+  "description": "A Kenyan-based STEM tutoring app supporting English, Kiswahili, and Sheng.",
+  "requestFramePermissions": ["microphone"]
+}
